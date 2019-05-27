@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="424113" started-at="2019-05-27T08:08:57Z" finished-at="2019-05-27T08:16:01Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="424113" started-at="2019-05-27T08:08:57Z" finished-at="2019-05-27T08:16:01Z">
+      <class name="com.scrapPlant.functions.execution">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.scrapPlant.functions.execution@34ce8af7]" name="beforeTest" is-config="true" duration-ms="22" started-at="2019-05-27T13:38:57Z" finished-at="2019-05-27T13:38:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Execution()[pri:0, instance:com.scrapPlant.functions.execution@34ce8af7]" name="Execution" duration-ms="424046" started-at="2019-05-27T13:38:57Z" finished-at="2019-05-27T13:46:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Execution -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.scrapPlant.functions.execution@34ce8af7]" name="afterTest" is-config="true" duration-ms="38" started-at="2019-05-27T13:46:01Z" finished-at="2019-05-27T13:46:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.scrapPlant.functions.execution -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
